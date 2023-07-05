@@ -10,7 +10,7 @@
 - Rotina de metodologia ágil (Scrum)
 - Conhecimentos sólidos em orientação a objetos
 - Banco de dados relacionais e não relacionais
-- 
+  
 ### Tecnologias que eu estou praticando
 
 <div>
