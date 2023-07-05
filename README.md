@@ -10,10 +10,7 @@
 - Rotina de metodologia ágil (Scrum)
 - Conhecimentos sólidos em orientação a objetos
 - Banco de dados relacionais e não relacionais
-
-
-![Aline Cadinho GitHub stats](https://github-readme-stats.vercel.app/api?username=alinecadinhoo&show_icons=true&theme=synthwave)
-
+- 
 ### Tecnologias que eu estou praticando
 
 <div>
