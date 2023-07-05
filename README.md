@@ -3,6 +3,15 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-cadinho/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cadinhoaline@gmail.com)
 
+- Desenvolvimento de sistemas em java, com Spring
+- Desenvolver e implementar o código backend
+- Testar e depurar o código para garantir que ele funcione corretamente.
+- Realizar testes unitários (jUnit)
+- Rotina de metodologia ágil (Scrum)
+- Conhecimentos sólidos em orientação a objetos
+- Banco de dados relacionais e não relacionais
+
+
 ![Aline Cadinho GitHub stats](https://github-readme-stats.vercel.app/api?username=alinecadinhoo&show_icons=true&theme=synthwave)
 
 ### Tecnologias que eu estou praticando
