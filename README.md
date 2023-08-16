@@ -4,12 +4,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cadinhoaline@gmail.com)
 
 - Desenvolvimento de sistemas em java, com Spring
-- Desenvolver e implementar o código backend
-- Testar e depurar o código para garantir que ele funcione corretamente.
-- Realizar testes unitários (jUnit)
+- Realizar testes unitários 
 - Rotina de metodologia ágil (Scrum)
 - Conhecimentos sólidos em orientação a objetos
-- Banco de dados relacionais e não relacionais
+- Desenvolvimento em front end e framework Angular
   
 ### Tecnologias que eu estou praticando
 
