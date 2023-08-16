@@ -9,7 +9,7 @@
 - Conhecimentos sólidos em orientação a objetos
 - Desenvolvimento em front end e framework Angular
   
-### Tecnologias que eu estou praticando
+### Tecnologias que eu estou praticando e trabalhando
 
 <div>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
