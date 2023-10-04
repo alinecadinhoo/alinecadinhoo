@@ -8,6 +8,8 @@
 - Melhorias em aplicações web
 - Desenvolvimento em aplicações web
 - Desenvolvimento em front end e framework Angular
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecadinhoo&size_weight=0.5&count_weight=0.5)
   
 ### Tecnologias que eu estou praticando e trabalhando
 
